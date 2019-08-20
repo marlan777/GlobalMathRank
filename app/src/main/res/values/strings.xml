@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Global MathRank</string>
+
+    <string name="r_strOpr1">X</string>
+    <string name="r_strOp">+</string>
+    <string name="r_strOpr2">Y</string>
+    <string name="r_strEqual">~</string>
+    <string name="r_btnQM">\?</string>
+
+    <string name="r_btnNum1">1</string>
+    <string name="r_btnNum2">2</string>
+    <string name="r_btnNum3">3</string>
+    <string name="r_btnNum4">4</string>
+    <string name="r_btnNum5">5</string>
+    <string name="r_btnNum6">6</string>
+    <string name="r_strNum7">7</string>
+    <string name="r_btnNum8">8</string>
+    <string name="r_btnNum9">9</string>
+    <string name="r_btnNum0">0</string>
+
+    <string name="r_time_elapsed">Time</string>
+    <string name="r_Time">000000</string>
+    <string name="r_HeaderTargetTime">Target Time</string>
+    <string name="r_HeaderBestTime">Best Time</string>
+    <string name="r_HeaderTargetOK">Target OK</string>
+
+    <string name="r_HeaderRight">#Right</string>
+    <string name="r_HeaderWrong">#Wrong</string>
+    <string name="r_HeaderTotal">#Total</string>
+    <string name="r_TotalCounter">000</string>
+    <string name="r_RightCounter">000</string>
+    <string name="r_WrongCounter">000</string>
+    <string name="r_btnStart">START</string>
+    <string name="r_btnStop">STOP</string>
+    <string name="r_btnReturn">RETURN</string>
+
+    <string name="r_btnAddMain">ADDITION ( x+y )</string>
+    <string name="r_btnSubMain">NEGATION ( x-y )</string>
+    <string name="r_btnMulMain">MULTIPLICATION ( xXy )</string>
+    <string name="r_btnDivMain">DIVISION ( x/y )</string>
+    <string name="r_btnExit">E X I T</string>
+
+    <string name="r_btnBasic">BASIC</string>
+    <string name="r_btnMixPlace">SHUFFLED BUTTON</string>
+    <string name="r_btnMixColor">SHUFFLED COLOR</string>
+    <string name="r_btnMixPicture">SHUFFLED PICTURES</string>
+</resources>
